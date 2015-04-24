@@ -14,7 +14,7 @@
         </value>
         <next>
           <block type="oled_drawtext" id="60">
-            <field name="TEXT">swagy bruh</field>
+            <field name="TEXT">netflix </field>
             <next>
               <block type="oled_setcursor" id="69" inline="true">
                 <value name="STARTX">
@@ -29,7 +29,7 @@
                 </value>
                 <next>
                   <block type="oled_drawtext" id="92">
-                    <field name="TEXT">flesha and sasge </field>
+                    <field name="TEXT">is bae</field>
                   </block>
                 </next>
               </block>
